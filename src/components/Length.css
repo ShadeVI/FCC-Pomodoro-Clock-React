@@ -1,0 +1,18 @@
+.length {
+    width: 300px;
+    padding: 20px;
+    margin: 0 10px;
+    background-color: #4f646f;
+    color: #f4faff;
+    border: 1px solid #f4faff;
+    border-radius: 5px;
+}
+
+.length__time {
+    font-size: 24px;
+    padding: 10px 0;
+}
+
+.length__title {
+    text-transform: uppercase;
+}

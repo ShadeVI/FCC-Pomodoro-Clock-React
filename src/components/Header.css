@@ -1,0 +1,28 @@
+header {
+    padding-top: 20px;
+}
+
+.title {
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.infos {
+    margin: 15px 0;
+}
+
+.infos > h4 {
+    margin: 5px 0;
+    font-weight: 500;
+}
+
+.infos__technologies {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.infos__list {
+    margin-left: 20px;
+}
