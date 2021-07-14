@@ -17,7 +17,7 @@
     position: relative;
 }
 
-.session__status__line {
+.session__status--line {
     position: absolute;
     bottom: -5px;
     left: 0;
