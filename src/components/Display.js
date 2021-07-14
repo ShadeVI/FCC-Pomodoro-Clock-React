@@ -40,7 +40,7 @@ const Display = () => {
                 <h2 id="timer-label" className="text-center session__status">
                     {isBreak ? "BREAK" : "SESSION"}
                     <div
-                        className="session__status__line"
+                        className="session__status--line"
                         ref={lineTimeRef}
                     ></div>
                 </h2>
